@@ -1,0 +1,76 @@
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.exe
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.deps.json
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.runtimeconfig.json
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.runtimeconfig.dev.json
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.dll
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.pdb
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaAccesoDatos.dll
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaEntidades.dll
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaLogica.dll
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaEntidades.pdb
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaLogica.pdb
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaAccesoDatos.pdb
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.csproj.AssemblyReference.cache
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.FrmAdminProfesor.resources
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.FrmMenuPrincipal.resources
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.csproj.GenerateResource.cache
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.GeneratedMSBuildEditorConfig.editorconfig
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.AssemblyInfoInputs.cache
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.AssemblyInfo.cs
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.csproj.CoreCompileInputs.cache
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.csproj.CopyComplete
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.dll
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.pdb
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.genruntimeconfig.cache
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.Properties.Resources.resources
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.csproj.AssemblyReference.cache
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.FrmAdminCurso.resources
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.FrmAdminProfesor.resources
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.FrmBuscarMatricula.resources
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.FrmCrearMatricula.resources
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.FrmEstudiante.resources
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.FrmMenuPrincipal.resources
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.FrmPagos.resources
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.FrmSeleccionaEstudianteMatricula.resources
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.Properties.Resources.resources
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.csproj.GenerateResource.cache
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.AssemblyInfoInputs.cache
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.AssemblyInfo.cs
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.csproj.CoreCompileInputs.cache
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.exe
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.deps.json
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.runtimeconfig.json
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.runtimeconfig.dev.json
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.dll
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.pdb
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaAccesoDatos.dll
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaEntidades.dll
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaLogica.dll
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaEntidades.pdb
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaLogica.pdb
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaAccesoDatos.pdb
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.csproj.CopyComplete
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.dll
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.pdb
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.genruntimeconfig.cache
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.FrmAdminCurso.resources
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.FrmBuscarMatricula.resources
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.FrmCrearMatricula.resources
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.FrmEstudiante.resources
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.FrmMenuMiniPrincipal.resources
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.FrmPagos.resources
+E:\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.FrmSeleccionaEstudianteMatricula.resources
+C:\Users\DSdev\OneDrive - Instituto Nacional de Aprendizaje\Documents\Programador de aplicaciones\POO\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.FrmMenuMiniPrincipal.resources

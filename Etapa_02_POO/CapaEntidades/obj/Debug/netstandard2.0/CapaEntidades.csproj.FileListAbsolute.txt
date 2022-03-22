@@ -1,0 +1,10 @@
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.deps.json
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.dll
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.pdb
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.csproj.AssemblyReference.cache
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.AssemblyInfoInputs.cache
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.AssemblyInfo.cs
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.csproj.CoreCompileInputs.cache
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.dll
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.pdb

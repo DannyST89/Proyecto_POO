@@ -1,0 +1,15 @@
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaLogica\bin\Debug\netstandard2.0\CapaLogica.deps.json
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaLogica\bin\Debug\netstandard2.0\CapaLogica.dll
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaLogica\bin\Debug\netstandard2.0\CapaLogica.pdb
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaLogica\bin\Debug\netstandard2.0\CapaDatos.dll
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaLogica\bin\Debug\netstandard2.0\CapaEntidades.dll
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaLogica\bin\Debug\netstandard2.0\CapaDatos.pdb
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaLogica\bin\Debug\netstandard2.0\CapaEntidades.pdb
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.csproj.AssemblyReference.cache
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.AssemblyInfoInputs.cache
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.AssemblyInfo.cs
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.csproj.CoreCompileInputs.cache
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.csproj.CopyComplete
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.dll
+E:\Proyecto - POO - Etapa - 02\Etapa_02_POO\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.pdb
